@@ -1,0 +1,15 @@
+C:\TGL\TGL-Practice1\source\bin\Debug\net6.0\Practice 1 source.exe
+C:\TGL\TGL-Practice1\source\bin\Debug\net6.0\Practice 1 source.deps.json
+C:\TGL\TGL-Practice1\source\bin\Debug\net6.0\Practice 1 source.runtimeconfig.json
+C:\TGL\TGL-Practice1\source\bin\Debug\net6.0\Practice 1 source.dll
+C:\TGL\TGL-Practice1\source\bin\Debug\net6.0\Practice 1 source.pdb
+C:\TGL\TGL-Practice1\source\obj\Debug\net6.0\Practice 1 source.csproj.AssemblyReference.cache
+C:\TGL\TGL-Practice1\source\obj\Debug\net6.0\Practice 1 source.GeneratedMSBuildEditorConfig.editorconfig
+C:\TGL\TGL-Practice1\source\obj\Debug\net6.0\Practice 1 source.AssemblyInfoInputs.cache
+C:\TGL\TGL-Practice1\source\obj\Debug\net6.0\Practice 1 source.AssemblyInfo.cs
+C:\TGL\TGL-Practice1\source\obj\Debug\net6.0\Practice 1 source.csproj.CoreCompileInputs.cache
+C:\TGL\TGL-Practice1\source\obj\Debug\net6.0\Practice 1 source.dll
+C:\TGL\TGL-Practice1\source\obj\Debug\net6.0\refint\Practice 1 source.dll
+C:\TGL\TGL-Practice1\source\obj\Debug\net6.0\Practice 1 source.pdb
+C:\TGL\TGL-Practice1\source\obj\Debug\net6.0\Practice 1 source.genruntimeconfig.cache
+C:\TGL\TGL-Practice1\source\obj\Debug\net6.0\ref\Practice 1 source.dll
